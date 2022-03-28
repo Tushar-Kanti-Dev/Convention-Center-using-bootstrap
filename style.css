@@ -18,3 +18,17 @@
 .special-card {
     transform: scaleY(1.1);
 }
+
+.button-style {
+    border: none;
+    width: 90% !important;
+    background-color: white !important;
+    z-index: 3;
+    border-color: #86b7fe;
+    outline: 0;
+    box-shadow: 0 0 0 .25rem white !important;
+}
+
+.items {
+    border: none;
+}
