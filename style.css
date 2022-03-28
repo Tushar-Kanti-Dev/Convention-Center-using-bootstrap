@@ -1,0 +1,20 @@
+.text-height {
+    margin-bottom: 5% !important;
+}
+
+.carousel-caption {
+    margin: 0 auto;
+    width: 40%;
+}
+
+.button-style1 a {
+    text-decoration: none !important;
+}
+
+.card-highlight {
+    border-radius: 10px !important;
+}
+
+.special-card {
+    transform: scaleY(1.1);
+}
